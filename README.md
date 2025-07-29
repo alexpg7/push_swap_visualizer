@@ -49,5 +49,9 @@ make exec ARG="$(shuf -i 1-100 -n 100)"
 
 Once the **mlx** window has oppened up, use your keys ⬅️ and ➡️ (Linux) to go back and forth through all the instructions your `push_swap` has outputed. To exit the program, just click the close button of the window (the cross ❎).
 
-The continuous pressing of the right arrow, for example, should look like this:
+## ❔Example
+
+The continuous pressing of the right arrow, for 100 numbers, should look like this (sped up):
+
+![til](https://github.com/alexpg7/Images/blob/main/ps_visualizer/Visualizer.gif)
 
