@@ -6,7 +6,7 @@
 A program to visualize the solution of push_swap. Using 42's MiniLibX and Libft.
 
 ## :hammer::book: Compilation and usage
-Firstly, copy the repository into the same folder where your `push_swap` file.
+Firstly, copy the repository into the same folder where your `push_swap` file is.
 
 > [!WARNING]
 > Your `push_swap` file must exist
