@@ -42,7 +42,7 @@ If you want to try a specific number of arguments (for example, 100), execute th
 
 
 ```bash
-make exec ARG="$(shuf -i 1-100 -n 100)"
+make exec ARG="$(echo $(shuf -i 1-100 -n 100))"
 ```
 
 ## 🎮Controls
