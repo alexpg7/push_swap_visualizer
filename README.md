@@ -15,6 +15,12 @@ Firstly, copy the repository into the same folder where your `push_swap` file is
 git clone https://github.com/alexpg7/push_swap_visualizer.git push_swap_visualizer && cd push_swap_visualizer
 ```
 
+Also, get the ``minilibx`` library with the ``setup.sh`` script:
+
+```bash
+bash setup.sh
+```
+
 Before compiling, make sure you have the correct permissions to compile the MiniLibX.
 
 ```bash
